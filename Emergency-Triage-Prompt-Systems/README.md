@@ -1,1 +1,0 @@
-# Emergency Triage Prompt Systems
