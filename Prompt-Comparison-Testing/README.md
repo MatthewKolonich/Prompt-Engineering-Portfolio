@@ -1,1 +1,0 @@
-# Prompt Comparison Testing
